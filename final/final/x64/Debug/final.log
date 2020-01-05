@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\[108A]計圖\FINAL\final\final\include\vec3.hpp(50,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\[108A]計圖\FINAL\final\final\include\triangle.hpp(18,1): warning C4150: 刪除指向不完整類型 'material' 的指標; 沒有解構函式可呼叫
+D:\[108A]計圖\FINAL\final\final\include\hitable.hpp(6): message : 請參閱 'material' 的宣告
+D:\[108A]計圖\FINAL\final\final\include\camera.hpp(21,14): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\[108A]計圖\FINAL\final\final\include\sphere.hpp(10,13): warning C4150: 刪除指向不完整類型 'material' 的指標; 沒有解構函式可呼叫
+D:\[108A]計圖\FINAL\final\final\include\hitable.hpp(6): message : 請參閱 'material' 的宣告
+D:\[108A]計圖\FINAL\final\final\include\field.hpp(10,18): warning C4150: 刪除指向不完整類型 'material' 的指標; 沒有解構函式可呼叫
+D:\[108A]計圖\FINAL\final\final\include\hitable.hpp(6): message : 請參閱 'material' 的宣告
+D:\[108A]計圖\FINAL\final\final\include\disk.hpp(7,17): warning C4150: 刪除指向不完整類型 'material' 的指標; 沒有解構函式可呼叫
+D:\[108A]計圖\FINAL\final\final\include\hitable.hpp(6): message : 請參閱 'material' 的宣告
+D:\[108A]計圖\FINAL\final\final\main.cpp(63,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  final.vcxproj -> D:\[108A]計圖\FINAL\final\x64\Debug\black_hole_project.exe
